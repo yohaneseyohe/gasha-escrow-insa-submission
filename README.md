@@ -670,4 +670,4 @@ The effectiveness of the solution ultimately depends on the quality of its imple
 **Project Lead:** Yohanes Mesfin Fikre  
 **GitHub:** https://github.com/yohaneseyohe/gasha-escrow-insa-submission  
 **Website:** https://gashaescrow.com/
- Explanation Video: https://drive.google.com/file/d/1GgSiCrHaRV3Q2o8GXXVurhLGFVShNkcS/view?usp=sharing
+ Explanation Video: https://drive.google.com/file/d/1ga8VFEDSnrPsHBDFgGEzXc96-zS23uq5/view?usp=sharing
