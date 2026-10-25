@@ -195,6 +195,7 @@ The transaction history should reflect the events and decisions that led to the 
 
 Not every transaction follows the same path. Cancellation, payment failure, delivery failure, and disputes may require different transitions and authorization rules.
 
+MVP 
 ## 7. Transaction Lifecycle and State Management
 
 Escrow transactions require controlled state transitions to prevent inconsistent financial outcomes.
@@ -669,3 +670,4 @@ The effectiveness of the solution ultimately depends on the quality of its imple
 **Project Lead:** Yohanes Mesfin Fikre  
 **GitHub:** https://github.com/yohaneseyohe/gasha-escrow-insa-submission  
 **Website:** https://gashaescrow.com/
+ Explanation Video: https://drive.google.com/file/d/1GgSiCrHaRV3Q2o8GXXVurhLGFVShNkcS/view?usp=sharing
